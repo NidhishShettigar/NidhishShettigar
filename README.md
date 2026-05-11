@@ -26,17 +26,24 @@ Information Science and Engineering student with a strong foundation in programm
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NidhishShettigar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NidhishShettigar&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=NidhishShettigar&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" width="48%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NidhishShettigar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+<img src="https://streak-stats.demolab.com?user=NidhishShettigar&theme=github-dark&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NidhishShettigar&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
