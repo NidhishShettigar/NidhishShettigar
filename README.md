@@ -23,21 +23,14 @@ Information Science and Engineering student with a strong foundation in programm
 
 # GitHub Analytics:
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NidhishShettigar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=NidhishShettigar&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=NidhishShettigar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NidhishShettigar&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-<p align="center">
-  Visitors Count
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=NidhishShettigar&style=flat-square&color=blueviolet" />
-</p>
+![](https://visitcount.itsvg.in/api?id=NidhishShettigar&icon=5&color=6)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
