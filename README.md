@@ -24,12 +24,14 @@ Information Science and Engineering student with a strong foundation in programm
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NidhishShettigar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NidhishShettigar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=NidhishShettigar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NidhishShettigar&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NidhishShettigar&icon=2&color=0)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=NidhishShettigar&icon=5&color=6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
