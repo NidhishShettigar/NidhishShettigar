@@ -24,14 +24,24 @@ Information Science and Engineering student with a strong foundation in programm
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=NidhishShettigar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NidhishShettigar&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&theme=tokyonight&hide_border=true&layout=compact)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NidhishShettigar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NidhishShettigar&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhishShettigar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=NidhishShettigar&icon=5&color=6)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=NidhishShettigar&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
