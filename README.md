@@ -2,7 +2,7 @@
 Information Science and Engineering student with a strong foundation in programming and full-stack web development. Experienced in building modern and user-friendly web applications using MongoDB, Express.js, React and Node.js. Skilled in API integration, authentication and developing end-to-end solutions with strong problem-solving skills.
 
 
-##  Socials:
+#  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nidhish.shettigar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nidhish_shettigar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhish-shettigar17 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nidhishShettig2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhishshettigar23@gmail.com) 
 
 #  Tech Stack:
